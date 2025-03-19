@@ -71,8 +71,8 @@
               "version": "1"
             },
             "configuration": {
-              "ClusterName": "loginwebapp-cluster",
-              "ServiceName": "loginwebapp-service",
+              "ClusterName":"CICD-cluster",
+              "ServiceName": "loginwebappService",
               "FileName": "imagedefinitions.json"
             },
             "inputArtifacts": [

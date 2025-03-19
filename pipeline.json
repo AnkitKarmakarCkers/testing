@@ -20,7 +20,7 @@
             },
             "configuration": {
               "ConnectionArn": "arn:aws:codeconnections:eu-north-1:509399635098:connection/15725852-5019-479f-88f1-b67ac13a913d",
-              "FullRepositoryId": "AnkitKarmakarCkers/3TierAPp",
+              "FullRepositoryId": "AnkitKarmakarCkers/3TierAppNew",
               "BranchName": "main",
               "OutputArtifactFormat": "CODE_ZIP"
             },
